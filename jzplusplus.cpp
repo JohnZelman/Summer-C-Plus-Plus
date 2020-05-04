@@ -22,7 +22,7 @@ int main()
 
     cout <<"Enter your name: " << endl;
     getline (cin, name);
-    cout <<"What do you think of this triangle? " << endl;
+    cout <<"What do you think of the above triangle? " << endl;
     getline (cin, description);
 
     cout << "This triangle was made by " << name << " and it is " << description << ", isn't that neat? " << endl;
